@@ -130,5 +130,8 @@ strings.xml:
       
 Результат работы программы:
 
+![image](https://user-images.githubusercontent.com/76133815/143579992-35293c71-379f-43c7-9ab3-488bff51d7be.png)
+
+![image](https://user-images.githubusercontent.com/76133815/143580038-045be7a9-7d0d-4bdc-9e8a-da1a064d450a.png)
 
 
